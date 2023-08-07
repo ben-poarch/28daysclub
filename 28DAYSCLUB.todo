@@ -1,0 +1,28 @@
+todo:
+    Navigation:
+        ✔ add habit button @done(23-06-02 13:03)
+        - add habit screen return to MainContainer @started(23-06-02 13:03)
+    HabitTracker:
+        - allow user to create habit @started(23-06-02 13:04)
+        ☐ calendar scroll @started(23-06-02 13:01)
+        ✔ increment count @done(23-06-02 13:04)
+        - reward on 28 days of completed habits
+    WorkoutsScreen:
+        - change layout
+        - allow admin to add weekly workouts
+        - get more requirements
+    StatsScreen:
+        - analyse habits
+        - habit category leaderboard
+        - strava stats leaderboard
+    ClubScreen:
+        - locked before 28 days of habits complete
+        - notifications
+        - discounts
+        - link to store (open in webview?)
+        - group chat?
+    Auth:
+        - Strava API auth
+        - save user identification in Firestore (one of: email, id, token etc)
+        - move to MainContainer if auth successful
+        - do we need login+register?
